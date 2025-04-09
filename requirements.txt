@@ -1,8 +1,10 @@
-pandas
+streamlit
 scikit-learn
 xgboost
 imbalanced-learn
+pandas
+numpy
+plotly
+streamlit-lottie
 joblib
-matplotlib
-seaborn
-streamlit
+pyttsx3
